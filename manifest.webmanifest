@@ -1,7 +1,7 @@
 {
-  "name": "One Finger Musou",
-  "short_name": "Musou",
-  "description": "A cheerful 60-second one-finger action web game.",
+  "name": "원 핑거 무쌍",
+  "short_name": "무쌍",
+  "description": "60초 동안 한 손가락으로 즐기는 귀여운 무쌍 액션 웹게임.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
